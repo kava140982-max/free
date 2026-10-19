@@ -1,5 +1,8 @@
 # Silicon Foundry — Transformer on Silicon
 
+[![Besuche](https://hits.sh/github.com/kava140982-max/free.svg?label=Besuche)](https://hits.sh/github.com/kava140982-max/free/) · [🌐 Silicon Foundry im Browser öffnen](https://kava140982-max.github.io/free/)
+
+
 An immersive, backend-free Three.js visualization of a transformer decoder rendered as GPU hardware. The experience moves from the external shroud through the board and SM array into a stylized tensor core.
 
 ## Controls
